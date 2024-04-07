@@ -1,3 +1,6 @@
+![image](https://github.com/BiancaScoro/React-Register-Form-Dave-Gray/assets/120531347/60091299-d6e1-444f-a777-a65dd4f7ba7d)
+![image](https://github.com/BiancaScoro/React-Register-Form-Dave-Gray/assets/120531347/edeca28c-b9b7-4a26-a0bf-7fb7bea3f7f8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
